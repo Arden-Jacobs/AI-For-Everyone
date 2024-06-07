@@ -74,10 +74,6 @@ Machine learning is a key technology driving the recent rise of AI. Throughout t
 - Practical guidance on applying AI in various contexts
 - Ethical considerations and societal impact of AI
 
-## Contributing
-
-We welcome contributions to enhance the course content and make AI more accessible to everyone. Please follow our [contributing guidelines](CONTRIBUTING.md) to get started.
-
 ## Contact
 
 For any questions or feedback, please reach out to [deeplearning.ai](https://www.deeplearning.ai).
